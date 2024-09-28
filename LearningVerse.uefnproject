@@ -1,0 +1,44 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "LearningVerse",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "31.20",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "LearningVerse",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "467b218b-4bcb-84ce-1a77-37b6e230f760",
+		"projectVersePath": "",
+		"modules":
+		{
+			"LearningVerse": "8e186f6c-42cb-673b-bed6-4fb38dfebc08"
+		}
+	}
+}

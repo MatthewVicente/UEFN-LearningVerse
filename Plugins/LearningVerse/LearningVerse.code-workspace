@@ -1,0 +1,56 @@
+{
+    "folders": [
+        {
+            "name": "LearningVerse",
+            "path": "D:/Epic Games/UEFN/UEFN-LearningVerse/Plugins/LearningVerse/Content"
+        },
+        {
+            "name": "LearningVerse/Assets",
+            "path": "C:/Users/mathe/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/LearningVerse-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/mathe/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/mathe/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/mathe/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/mathe/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
